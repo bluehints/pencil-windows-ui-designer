@@ -1,0 +1,20 @@
+{
+  "name": "pencil-windows-ui-designer",
+  "version": "1.0.0",
+  "description": "精通使用Pencil设计Windows桌面应用软件UI的专业设计师agent",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
+  },
+  "keywords": [
+    "ui-design",
+    "pencil",
+    "windows-desktop",
+    "interaction-design",
+    "animation-design"
+  ],
+  "author": "Open Assistant Manager",
+  "license": "MIT",
+  "dependencies": {}
+}
